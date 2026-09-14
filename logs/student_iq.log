@@ -1,0 +1,39 @@
+2026-09-14 22:32:02 [INFO] [DataLoader]: Loaded raw dataset from C:\Users\VICTUS\.gemini\antigravity\scratch\Student-Retention-Welfare-Tracker-01\data\raw\demo_schools_welfare.csv with 512 rows and 15 columns.
+2026-09-14 22:32:02 [INFO] [DataRescueCleaner]: Starting Data Rescue pipeline...
+2026-09-14 22:32:02 [INFO] [DataRescueCleaner]: Data rescue complete. Rows: 512 -> 500. Score: 95.3
+2026-09-14 22:32:02 [INFO] [DataLoader]: Saved cleaned dataset to C:\Users\VICTUS\.gemini\antigravity\scratch\Student-Retention-Welfare-Tracker-01\data\processed\cleaned_schools_welfare.csv
+2026-09-14 22:32:02 [INFO] [QualityReport]: Quality report persisted to C:\Users\VICTUS\.gemini\antigravity\scratch\Student-Retention-Welfare-Tracker-01\data\processed\data_quality_report.json
+2026-09-14 22:32:02 [INFO] [DatabaseManager]: DuckDB initialized with 500 school records and analytical views.
+2026-09-14 22:32:03 [INFO] [DropoutRiskModel]: Model saved to C:\Users\VICTUS\.gemini\antigravity\scratch\Student-Retention-Welfare-Tracker-01\data\processed\dropout_risk_model.joblib
+2026-09-14 22:38:56 [INFO] [DataLoader]: Loaded raw dataset from C:\Users\VICTUS\.gemini\antigravity\scratch\Student-Retention-Welfare-Tracker-01\data\raw\demo_schools_welfare.csv with 512 rows and 15 columns.
+2026-09-14 22:38:56 [INFO] [DataRescueCleaner]: Starting Data Rescue pipeline...
+2026-09-14 22:38:56 [INFO] [DataRescueCleaner]: Data rescue complete. Rows: 512 -> 500. Score: 89.7
+2026-09-14 22:38:56 [INFO] [DataLoader]: Saved cleaned dataset to C:\Users\VICTUS\.gemini\antigravity\scratch\Student-Retention-Welfare-Tracker-01\data\processed\cleaned_schools_welfare.csv
+2026-09-14 22:38:56 [INFO] [QualityReport]: Quality report persisted to C:\Users\VICTUS\.gemini\antigravity\scratch\Student-Retention-Welfare-Tracker-01\data\processed\data_quality_report.json
+2026-09-14 22:38:58 [INFO] [DatabaseManager]: DuckDB initialized with 500 school records and analytical views.
+2026-09-14 22:39:02 [INFO] [DropoutRiskModel]: Model saved to C:\Users\VICTUS\.gemini\antigravity\scratch\Student-Retention-Welfare-Tracker-01\data\processed\dropout_risk_model.joblib
+2026-09-14 22:53:30 [INFO] [WelfareAIAgent]: AI Analyst received question: 'Compare average test scores between schools with and without functional electricity.'
+2026-09-14 22:53:35 [INFO] [DataRescueCleaner]: Starting Data Rescue pipeline...
+2026-09-14 22:53:35 [INFO] [DataRescueCleaner]: Data rescue complete. Rows: 2 -> 1. Score: 75.0
+2026-09-14 22:53:35 [INFO] [DatabaseManager]: DuckDB initialized with 2 school records and analytical views.
+2026-09-14 22:56:26 [INFO] [WelfareAIAgent]: AI Analyst received question: 'Compare average test scores between schools with and without functional electricity.'
+2026-09-14 22:56:30 [INFO] [DataRescueCleaner]: Starting Data Rescue pipeline...
+2026-09-14 22:56:30 [INFO] [DataRescueCleaner]: Data rescue complete. Rows: 2 -> 1. Score: 75.0
+2026-09-14 22:56:30 [INFO] [DatabaseManager]: DuckDB initialized with 2 school records and analytical views.
+2026-09-14 23:00:31 [INFO] [WelfareAIAgent]: AI Analyst received question: 'Compare average test scores between schools with and without functional electricity.'
+2026-09-14 23:00:35 [INFO] [DataRescueCleaner]: Starting Data Rescue pipeline...
+2026-09-14 23:00:35 [INFO] [DataRescueCleaner]: Data rescue complete. Rows: 2 -> 1. Score: 75.0
+2026-09-14 23:00:35 [INFO] [DatabaseManager]: DuckDB initialized with 2 school records and analytical views.
+2026-09-14 23:08:59 [INFO] [DataLoader]: Loaded raw dataset from C:\Users\VICTUS\.gemini\antigravity\scratch\Student-Retention-Welfare-Tracker-01\data\raw\demo_schools_welfare.csv with 512 rows and 15 columns.
+2026-09-14 23:08:59 [INFO] [DataRescueCleaner]: Starting Data Rescue pipeline...
+2026-09-14 23:08:59 [INFO] [DataRescueCleaner]: Data rescue complete. Rows: 512 -> 500. Score: 89.7
+2026-09-14 23:08:59 [INFO] [DataLoader]: Saved cleaned dataset to C:\Users\VICTUS\.gemini\antigravity\scratch\Student-Retention-Welfare-Tracker-01\data\processed\cleaned_schools_welfare.csv
+2026-09-14 23:08:59 [INFO] [QualityReport]: Quality report persisted to C:\Users\VICTUS\.gemini\antigravity\scratch\Student-Retention-Welfare-Tracker-01\data\processed\data_quality_report.json
+2026-09-14 23:08:59 [INFO] [DatabaseManager]: DuckDB initialized with 500 school records and analytical views.
+2026-09-14 23:09:00 [INFO] [DropoutRiskModel]: Model saved to C:\Users\VICTUS\.gemini\antigravity\scratch\Student-Retention-Welfare-Tracker-01\data\processed\dropout_risk_model.joblib
+2026-09-14 23:09:09 [INFO] [WelfareAIAgent]: AI Analyst received question: 'Compare average test scores between schools with and without functional electricity.'
+2026-09-14 23:09:13 [INFO] [DataRescueCleaner]: Starting Data Rescue pipeline...
+2026-09-14 23:09:13 [INFO] [DataRescueCleaner]: Data rescue complete. Rows: 2 -> 1. Score: 75.0
+2026-09-14 23:09:13 [INFO] [DatabaseManager]: DuckDB initialized with 2 school records and analytical views.
+2026-09-14 23:10:28 [INFO] [WelfareAIAgent]: AI Analyst received question: 'Compare average test scores between schools with and without functional electricity.'
+2026-09-14 23:10:32 [INFO] [WelfareAIAgent]: AI Analyst received question: 'Which schools have the highest dropout risk?'

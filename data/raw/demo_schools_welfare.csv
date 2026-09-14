@@ -1,0 +1,513 @@
+School Code,School Name,District Name,Block,Enrolled Students,Electricity Available,Drinking Water Facility,Separate Girls Toilet,Boys Toilet,Mid Day Meal Served,Grain Quantity Procured,Procurement Unit,Attendance Rate,Average Marks,Annual Dropout Rate
+SCH-1001,Govt High School 1,North Valley,Block Gamma,330,Hai,1, ha ,Y,Nahi,3144.2,KG,100%,12.5,26.0
+SCH-1002,Model Primary School 2,Lake Plateau,Block Epsilon,509,Hai,Nahi,false,No,Yes,28.6,quintal,79.7,85.3,10.4
+SCH-1003,Govt High School 3,East Coast,Block Gamma,698,No,Yes, ha ,Nahi,true,34.1,Quintals,62.4,64.0,24.3
+SCH-1004,Govt High School 4,North Valley,Block Beta,376,Y,Hai,Y,0,No,2297.8,Kilograms,61.7,41.8,26.3
+SCH-1005,Sarvodaya Kanya School 5,Lake Plateau,Block Beta,626, ha ,Hai,1,Nahi,0,34.7,Qtl,76.6,78.1,22.1
+SCH-1006,Govt High School 6,East Coast,Block Delta,354,Y,Hai,false, ha ,N,2362.9,kg,63.4,41.7,8.0
+SCH-1007,Adarsh Vidyalaya 7,Lake Plateau,Block Epsilon,518,false,0,N,Hai,1,1.83,Ton,82.8,35.1,19.5
+SCH-1008,Zila Parishad School 8,West Plain,Block Epsilon,559,true,No,true,Yes,  Yes  ,578.0,KG,89.8,46.4,9.3
+SCH-1009,Govt High School 9,Lake Plateau,Block Gamma,592,1,true,Y,  Yes  ,No,23.1,quintal,74.9,59.0,22.1
+SCH-1010,Govt High School 10,Central Zila,Block Gamma,580,Yes,Y,N,No,Hai,9.9,Quintals,72.6%,71.1,23.1
+SCH-1011,Sarvodaya Kanya School 11,South Hill,Block Beta,566,true,1,No,true,false,3382.4,Kilograms,92.2,69.9,12.1
+SCH-1012,Adarsh Vidyalaya 12,West Plain,Block Epsilon,542,Y,Hai,Hai,Y,N,21.4,Quintals,0.54,64.8,7.6
+SCH-1013,Adarsh Vidyalaya 13,North Valley,Block Epsilon,323,No,  Yes  ,Nahi,Hai,true,2587.1,kg,89.6,54.8,12.3
+SCH-1014,Zila Parishad School 14,East Coast,Block Delta,500,Nahi, ha ,Yes,  Yes  ,  Yes  ,524.8,KG,63.7,40.7,6.5
+SCH-1015,Zila Parishad School 15,South Hill,Block Gamma,553,Hai,Y,Nahi,true,Y,23.5,Quintals,71.2%,30.9,21.5
+SCH-1016,Zila Parishad School 16,West Plain,Block Delta,298,0,Yes,1,0,Yes,1075.2,Kilograms,84.3,85.3,27.9
+SCH-1017,Zila Parishad School 17,South Hill,Block Beta,383,Hai,Yes,false, ha ,true,26.7,Quintals,45.1,78.7,5.7
+SCH-1018,Govt High School 18,South Hill,Block Alpha,689,Y,  Yes  ,Hai,0,Y,1.01,Ton,74.1,61.8,15.4
+SCH-1019,Model Primary School 19,Lake Plateau,Block Gamma,324,No,0,1,  Yes  ,  Yes  ,17.1,Qtl,0.92,64.1,16.4
+SCH-1020,Sarvodaya Kanya School 20,South Hill,Block Epsilon,351,1,N,Y,Hai,Nahi,7.2,Qtl,100%,12.5,26.0
+SCH-1021,Sarvodaya Kanya School 21,East Coast,Block Alpha,217,No,Y,Y, ha ,true,1098.7,kg,74.7,65.0,8.5
+SCH-1022,Govt High School 22,North Valley,Block Delta,363,Yes,Yes,N,1,  Yes  ,7.3,Qtl,65.9,32.0,26.5
+SCH-1023,Model Primary School 23,Central Zila,Block Alpha,458,false,true,1,0,1,12.2,Quintals,90.5,81.6,7.1
+SCH-1024,Govt High School 24,East Coast,Block Epsilon,496,false, ha ,1,Hai,1,28.8,quintal,89.6%,71.4,10.3
+SCH-1025,Model Primary School 25,East Coast,Block Beta,190,0,Yes,Nahi,Hai,Hai,32.3,quintal,60.9,39.0,19.0
+SCH-1026,Adarsh Vidyalaya 26,North Valley,Block Gamma,439,  Yes  ,true,0,  Yes  ,true,33.0,Qtl,48.2,85.6,8.5
+SCH-1027,Zila Parishad School 27,East Coast,Block Gamma,526,false,true,Y,0,false,1040.6,kg,80.3%,83.3,15.8
+SCH-1028,Model Primary School 28,East Coast,Block Delta,151,  Yes  ,N,false,N,  Yes  ,6.1,quintal,90.6,45.5,20.0
+SCH-1029,Model Primary School 29,West Plain,Block Delta,258,false,false,No,0,true,2.0,quintal,57.5,66.2,13.8
+SCH-1030,Model Primary School 30,Central Zila,Block Delta,253,  Yes  ,Y,No,true,  Yes  ,2243.6,KG,47.0,44.6,22.9
+SCH-1031,Govt High School 31,South Hill,Block Delta,705,Y,Nahi,0,  Yes  ,false,2570.5,kg,62.7,68.3,25.2
+SCH-1032,Govt High School 32,West Plain,Block Beta,260, ha ,true,Nahi,Yes,true,3227.7,kg,48.6%,54.3,15.6
+SCH-1033,Adarsh Vidyalaya 33,West Plain,Block Epsilon,596,0,true,Nahi,1, ha ,17.7,quintal,56.0,73.2,15.3
+SCH-1034,Adarsh Vidyalaya 34,West Plain,Block Alpha,372,Hai,No,N,N,true,6.6,Quintals,54.5,29.0,12.3
+SCH-1035,Zila Parishad School 35,North Valley,Block Beta,510,0,false, ha ,Yes,false,1774.0,Kilograms,92.9,81.2,23.6
+SCH-1036,Sarvodaya Kanya School 36,Central Zila,Block Beta,579,Hai,No,0,Nahi,Yes,1309.2,Kilograms,78.7,54.4,4.9
+SCH-1037,Govt High School 37,West Plain,Block Epsilon,657,  Yes  ,Yes,Y,  Yes  ,0,3060.6,kg,51.8,53.6,10.4
+SCH-1038,Adarsh Vidyalaya 38,West Plain,Block Gamma,163,Nahi,Yes, ha ,true,Yes,9.4,Qtl,0.46,27.0,8.1
+SCH-1039,Sarvodaya Kanya School 39,South Hill,Block Beta,209,Nahi,  Yes  ,Y,false,Hai,2508.2,Kilograms,83.4,72.1,4.5
+SCH-1040,Adarsh Vidyalaya 40,North Valley,Block Epsilon,106,No,false,  Yes  ,0,0,854.5,KG,74.0,68.9,9.5
+SCH-1041,Govt High School 41,Central Zila,Block Alpha,435,true,0,  Yes  ,N,Y,2.34,Ton,42.7,52.3,11.1
+SCH-1042,Zila Parishad School 42,Lake Plateau,Block Beta,525,1, ha ,true,  Yes  ,No,2.87,Ton,71.1,71.1,8.6
+SCH-1043,Govt High School 43,East Coast,Block Delta,329,Nahi,false,false,  Yes  ,0,2.9,Qtl,88.0,75.3,10.5
+SCH-1044,Adarsh Vidyalaya 44,Central Zila,Block Alpha,609,Hai,Y,Hai, ha ,0,2032.1,Kilograms,55.0,53.2,2.0
+SCH-1045,Zila Parishad School 45,Lake Plateau,Block Beta,393,  Yes  ,false,N,Nahi,true,1.33,Ton,95.8,53.6,9.6
+SCH-1046,Model Primary School 46,East Coast,Block Alpha,628, ha ,1,Hai,Hai, ha ,1112.4,Kilograms,73.8,86.8,23.6
+SCH-1047,Adarsh Vidyalaya 47,South Hill,Block Gamma,94, ha ,true,1,No,Yes,20.3,Quintals,79.7%,79.7,14.5
+SCH-1048,Sarvodaya Kanya School 48,East Coast,Block Delta,570,Nahi,N,1,Yes,No,17.8,quintal,0.86,64.7,2.9
+SCH-1049,Sarvodaya Kanya School 49,East Coast,Block Alpha,334,Y,true,0,false,false,22.4,quintal,83.9,43.7,17.1
+SCH-1050,Sarvodaya Kanya School 50,Central Zila,Block Alpha,704, ha ,Y,Hai,  Yes  ,Hai,23.8,Qtl,0.51,25.2,13.4
+SCH-1051,Adarsh Vidyalaya 51,North Valley,Block Beta,375, ha ,No, ha ,Nahi,Y,970.3,KG,56.3,75.6,6.7
+SCH-1052,Model Primary School 52,Lake Plateau,Block Beta,352,1,Y,Yes,1,No,2.67,Ton,72.7,68.4,20.0
+SCH-1053,Sarvodaya Kanya School 53,Central Zila,Block Delta,528,Y,false,Yes,0,Nahi,21.9,Qtl,100%,12.5,26.0
+SCH-1054,Adarsh Vidyalaya 54,Central Zila,Block Alpha,259,Nahi,true,  Yes  ,Nahi,No,3489.9,kg,65.5,54.6,12.3
+SCH-1055,Govt High School 55,South Hill,Block Gamma,501, ha ,Nahi,No,  Yes  ,0,27.1,quintal,44.0%,40.9,4.6
+SCH-1056,Sarvodaya Kanya School 56,North Valley,Block Epsilon,553,0,Yes,Hai,true,N,2.7,Ton,75.8,59.6,26.1
+SCH-1057,Zila Parishad School 57,North Valley,Block Alpha,725,false,Hai, ha ,1,No,0.25,Ton,64.0,32.1,26.6
+SCH-1058,Model Primary School 58,West Plain,Block Gamma,601, ha ,No,0,Nahi,Nahi,1707.4,kg,49.8,72.0,5.1
+SCH-1059,Zila Parishad School 59,East Coast,Block Epsilon,353,Yes,No, ha ,No,false,3.5,Ton,68.4%,58.9,10.6
+SCH-1060,Sarvodaya Kanya School 60,West Plain,Block Delta,409,Hai, ha ,Hai,false,0,3024.8,kg,64.2,82.5,11.6
+SCH-1061,Model Primary School 61,West Plain,Block Alpha,209,true,false,N,Y,Nahi,19.4,Quintals,66.7,66.3,5.6
+SCH-1062,Adarsh Vidyalaya 62,East Coast,Block Epsilon,487,  Yes  ,Y,N,  Yes  ,true,3348.7,Kilograms,75.8,59.1,17.9
+SCH-1063,Adarsh Vidyalaya 63,South Hill,Block Alpha,524,Y,  Yes  , ha ,Y,Nahi,2490.2,kg,90.8%,75.2,9.3
+SCH-1064,Model Primary School 64,South Hill,Block Epsilon,501,false,  Yes  ,1,1,1,22.1,Quintals,62.7,61.7,7.7
+SCH-1065,Zila Parishad School 65,East Coast,Block Alpha,556,No,  Yes  ,true,1,Y,3319.3,Kilograms,95.3,68.5,13.6
+SCH-1066,Zila Parishad School 66,West Plain,Block Alpha,322,0,false,N,false,No,1174.3,KG,94.8,60.7,19.7
+SCH-1067,Govt High School 67,Central Zila,Block Delta,373,Hai,false,N,Hai,  Yes  ,2248.9,kg,78.6,77.8,18.1
+SCH-1068,Govt High School 68,East Coast,Block Delta,114,false,N, ha ,1,Y,12.8,Qtl,64.4,80.2,11.2
+SCH-1069,Adarsh Vidyalaya 69,South Hill,Block Gamma,573,No, ha ,N,Y,Nahi,6.6,Quintals,94.2,86.7,27.1
+SCH-1070,Adarsh Vidyalaya 70,North Valley,Block Delta,94,No,true,Y,Nahi,N,2671.7,KG,56.2,48.4,19.4
+SCH-1071,Sarvodaya Kanya School 71,Central Zila,Block Gamma,704,Hai,  Yes  ,Y,  Yes  ,Nahi,1197.2,KG,64.0%,84.6,9.6
+SCH-1072,Govt High School 72,South Hill,Block Epsilon,218,0,Nahi,N,  Yes  , ha ,3321.7,KG,64.6,51.1,4.1
+SCH-1073,Zila Parishad School 73,East Coast,Block Alpha,459,Hai,Nahi,Nahi,Hai,N,34.4,Quintals,61.8,28.8,8.8
+SCH-1074,Zila Parishad School 74,North Valley,Block Beta,737,  Yes  ,false,Yes,Yes,N,3463.1,kg,84.5,59.9,17.0
+SCH-1075,Model Primary School 75,East Coast,Block Beta,690,Yes,No,1,1,true,28.4,Qtl,47.9,47.6,22.4
+SCH-1076,Govt High School 76,South Hill,Block Gamma,133,1, ha ,0,true,Y,409.7,KG,66.2,53.5,7.4
+SCH-1077,Sarvodaya Kanya School 77,East Coast,Block Delta,738,Yes,Yes,Nahi,0,0,556.3,KG,80.5,45.3,5.4
+SCH-1078,Sarvodaya Kanya School 78,Lake Plateau,Block Epsilon,641, ha ,N,0,false,true,17.0,Qtl,74.7%,69.2,24.1
+SCH-1079,Sarvodaya Kanya School 79,Lake Plateau,Block Beta,520,Nahi,Hai,0,N,Nahi,1572.8,Kilograms,47.1,48.6,5.5
+SCH-1080,Govt High School 80,North Valley,Block Alpha,175,0,Y, ha , ha ,N,6.3,quintal,45.2,67.2,12.4
+SCH-1081,Zila Parishad School 81,Lake Plateau,Block Alpha,374,false,No,N,Y,false,0.9,Ton,77.5,78.3,11.2
+SCH-1082,Sarvodaya Kanya School 82,South Hill,Block Delta,654,false,false,  Yes  ,  Yes  ,true,22.1,Quintals,0.78,42.2,21.7
+SCH-1083,Adarsh Vidyalaya 83,North Valley,Block Beta,226,false,  Yes  ,0,Y,1,2289.5,KG,43.7,51.4,10.5
+SCH-1084,Adarsh Vidyalaya 84,Central Zila,Block Epsilon,166,Yes,1,1,false,Yes,469.2,KG,65.9,51.1,7.2
+SCH-1085,Adarsh Vidyalaya 85,West Plain,Block Alpha,370,  Yes  ,  Yes  ,false,Nahi,true,1217.8,KG,0.54,37.9,26.6
+SCH-1086,Adarsh Vidyalaya 86,East Coast,Block Gamma,202,Yes,Nahi, ha ,0,1,1454.7,kg,80.0,75.8,3.4
+SCH-1087,Govt High School 87,West Plain,Block Alpha,550,Y,N,false,0,false,2541.3,Kilograms,64.6%,26.3,10.1
+SCH-1088,Sarvodaya Kanya School 88,West Plain,Block Gamma,170,0,Y,Hai,0,false,1929.1,Kilograms,63.4,46.0,6.0
+SCH-1089,Govt High School 89,Central Zila,Block Epsilon,278,N,N, ha ,  Yes  ,1,539.3,kg,55.8,72.8,3.5
+SCH-1090,Zila Parishad School 90,West Plain,Block Epsilon,673,Nahi,  Yes  ,false,  Yes  ,  Yes  ,1.27,Ton,94.4,54.5,18.2
+SCH-1091,Sarvodaya Kanya School 91,North Valley,Block Gamma,599,Y,No,Nahi,Nahi,Yes,14.2,Quintals,57.5,30.7,17.2
+SCH-1092,Sarvodaya Kanya School 92,Central Zila,Block Alpha,540,false,  Yes  ,Hai,N,false,1854.5,Kilograms,93.7,77.8,27.5
+SCH-1093,Model Primary School 93,North Valley,Block Beta,528,Nahi,true,true,false,1,14.3,Qtl,57.3,62.7,22.4
+SCH-1094,Govt High School 94,East Coast,Block Alpha,651,  Yes  ,0,No,No, ha ,23.7,quintal,90.9,61.7,5.2
+SCH-1095,Zila Parishad School 95,South Hill,Block Epsilon,166,No,true,0,  Yes  ,N,6.2,quintal,80.0,82.5,4.0
+SCH-1096,Sarvodaya Kanya School 96,East Coast,Block Alpha,451,No,1,Hai,N,Nahi,947.6,kg,49.4%,78.2,4.2
+SCH-1097,Sarvodaya Kanya School 97,North Valley,Block Gamma,712,1,false,0,1,1,2943.4,kg,83.6,52.6,12.4
+SCH-1098,Model Primary School 98,West Plain,Block Epsilon,371, ha ,Nahi,Hai,true,Hai,33.9,Qtl,84.4,67.7,16.6
+SCH-1099,Adarsh Vidyalaya 99,West Plain,Block Epsilon,620,0,1,Hai,false,1,10.3,quintal,76.6,31.5,23.9
+SCH-1100,Adarsh Vidyalaya 100,North Valley,Block Beta,359,Nahi,true,1,0,Y,2895.1,kg,89.8,50.0,11.4
+SCH-1101,Govt High School 101,East Coast,Block Beta,108,N,Y, ha ,  Yes  ,N,6.8,quintal,44.1,77.4,21.6
+SCH-1102,Sarvodaya Kanya School 102,North Valley,Block Alpha,99,No,Hai,1,true, ha ,1.94,Ton,48.0,28.0,12.6
+SCH-1103,Zila Parishad School 103,North Valley,Block Alpha,591,false,true,Yes,  Yes  ,true,1.0,Ton,49.8,40.2,12.5
+SCH-1104,Govt High School 104,Central Zila,Block Gamma,149,true,true,true,true,true,14.9,Quintals,67.4,41.0,1.9
+SCH-1105,Adarsh Vidyalaya 105,South Hill,Block Alpha,675, ha ,N,1,Yes,N,1.32,Ton,76.7,86.8,14.2
+SCH-1106,Model Primary School 106,North Valley,Block Delta,117,No,Hai,Yes,Hai,Yes,32.8,Qtl,69.8,41.0,21.5
+SCH-1107,Adarsh Vidyalaya 107,North Valley,Block Gamma,359,Y,N,0,0, ha ,3152.3,Kilograms,62.9,56.3,26.0
+SCH-1108,Govt High School 108,Lake Plateau,Block Delta,160,0,false,1,true,No,5.4,Qtl,59.7,70.2,5.9
+SCH-1109,Zila Parishad School 109,North Valley,Block Gamma,709,0,No,  Yes  ,Yes,Y,2303.8,KG,61.6,85.0,5.3
+SCH-1110,Zila Parishad School 110,North Valley,Block Beta,148,Hai,  Yes  ,N,N,0,0.31,Ton,50.3,53.0,3.5
+SCH-1111,Adarsh Vidyalaya 111,West Plain,Block Gamma,745,No,Hai,Y,Yes, ha ,1846.8,kg,62.9,41.4,13.3
+SCH-1112,Adarsh Vidyalaya 112,Lake Plateau,Block Delta,284,Y,1,Y,Nahi,1,1668.9,KG,46.7,45.1,10.7
+SCH-1113,Sarvodaya Kanya School 113,East Coast,Block Gamma,241, ha , ha , ha ,  Yes  ,1,13.9,quintal,54.1,39.9,14.6
+SCH-1114,Sarvodaya Kanya School 114,East Coast,Block Delta,644,1,false,Y,Y,No,3498.7,Kilograms,80.8,76.9,3.5
+SCH-1115,Govt High School 115,West Plain,Block Delta,609,N,1,true,  Yes  ,false,2733.7,kg,49.0,77.4,15.2
+SCH-1116,Model Primary School 116,East Coast,Block Beta,434,true,No,Y,No,Hai,3356.0,KG,56.8,30.9,18.5
+SCH-1117,Sarvodaya Kanya School 117,South Hill,Block Beta,719, ha ,false,N,false,Yes,30.5,quintal,46.4,41.7,7.1
+SCH-1118,Sarvodaya Kanya School 118,Lake Plateau,Block Alpha,589,  Yes  ,true,No,  Yes  ,No,1008.1,Kilograms,85.6,68.4,5.7
+SCH-1119,Zila Parishad School 119,South Hill,Block Gamma,701,1,N, ha ,N, ha ,13.4,quintal,63.5,31.7,7.9
+SCH-1120,Zila Parishad School 120,South Hill,Block Beta,179,Yes,No,0,false,0,3376.9,kg,90.7,70.4,6.5
+SCH-1121,Sarvodaya Kanya School 121,West Plain,Block Delta,395,Nahi,Yes,Y,0,true,3390.1,Kilograms,0.54,56.2,24.9
+SCH-1122,Zila Parishad School 122,East Coast,Block Epsilon,88,Y,0,1,No, ha ,27.2,Qtl,61.8,37.3,16.2
+SCH-1123,Sarvodaya Kanya School 123,West Plain,Block Epsilon,366,false,  Yes  ,false,Y,1,15.0,Quintals,84.9,72.6,6.8
+SCH-1124,Sarvodaya Kanya School 124,North Valley,Block Alpha,119,1, ha ,N,Nahi,true,691.5,Kilograms,90.2%,83.7,9.9
+SCH-1125,Sarvodaya Kanya School 125,Lake Plateau,Block Gamma,687,N,true,true,true,Nahi,2057.7,KG,67.6%,45.9,4.4
+SCH-1126,Adarsh Vidyalaya 126,Lake Plateau,Block Alpha,691,Nahi,No,  Yes  ,false,false,2580.6,kg,73.5,64.0,23.8
+SCH-1127,Model Primary School 127,North Valley,Block Epsilon,192,Hai,Yes,Nahi,N,0,1562.8,kg,53.0,54.7,24.0
+SCH-1128,Model Primary School 128,Central Zila,Block Beta,654,N,  Yes  ,Nahi,true,0,33.6,Qtl,66.8,67.6,24.5
+SCH-1129,Adarsh Vidyalaya 129,Central Zila,Block Delta,276,Hai,No,true,No,Hai,27.4,Qtl,80.1,55.2,16.4
+SCH-1130,Adarsh Vidyalaya 130,East Coast,Block Alpha,667,  Yes  ,true,0,0,N,28.6,quintal,57.7,46.8,13.2
+SCH-1131,Zila Parishad School 131,South Hill,Block Beta,631,No,true, ha ,No,1,22.3,Quintals,73.7,58.5,18.4
+SCH-1132,Zila Parishad School 132,East Coast,Block Delta,182,  Yes  ,1,Yes,true,1,2354.5,Kilograms,89.6,72.6,9.1
+SCH-1133,Govt High School 133,North Valley,Block Epsilon,317,true, ha , ha ,Yes,1,3111.4,Kilograms,51.5,50.0,14.6
+SCH-1134,Adarsh Vidyalaya 134,North Valley,Block Alpha,385,false,false,Y,N,No,3464.0,Kilograms,71.3,78.6,13.9
+SCH-1135,Govt High School 135,East Coast,Block Beta,549,  Yes  ,No, ha ,1,Yes,1312.5,KG,57.9,63.5,18.4
+SCH-1136,Zila Parishad School 136,Central Zila,Block Gamma,168,0,  Yes  ,Y,1,1,1267.9,Kilograms,55.4,72.5,26.8
+SCH-1137,Sarvodaya Kanya School 137,North Valley,Block Gamma,749,N, ha ,Hai,Yes,  Yes  ,17.4,Quintals,50.6,80.9,21.9
+SCH-1138,Adarsh Vidyalaya 138,East Coast,Block Epsilon,306,Hai,1,Nahi,1,Nahi,3463.2,KG,62.2,72.7,22.8
+SCH-1139,Model Primary School 139,Lake Plateau,Block Epsilon,163,true,Nahi,true, ha ,N,32.3,Quintals,48.1,37.7,15.7
+SCH-1140,Sarvodaya Kanya School 140,West Plain,Block Alpha,290, ha ,false,Nahi,Y,true,2868.7,Kilograms,66.5,28.6,13.8
+SCH-1141,Govt High School 141,West Plain,Block Gamma,83, ha ,Hai,false,Y,Nahi,1336.9,Kilograms,100%,12.5,26.0
+SCH-1142,Zila Parishad School 142,South Hill,Block Beta,736, ha ,  Yes  ,0,N,0,3069.7,Kilograms,91.0,66.7,15.8
+SCH-1143,Adarsh Vidyalaya 143,North Valley,Block Beta,630,0,true,1, ha ,Hai,2.1,quintal,43.2,59.3,15.6
+SCH-1144,Model Primary School 144,West Plain,Block Gamma,238,No,Hai, ha ,Y,Yes,23.8,quintal,75.2,40.2,3.3
+SCH-1145,Zila Parishad School 145,Central Zila,Block Alpha,330, ha ,Yes,0,Nahi,Hai,0.92,Ton,88.6%,56.7,9.2
+SCH-1146,Sarvodaya Kanya School 146,East Coast,Block Epsilon,692,  Yes  ,N,Hai,No,1,1920.1,KG,64.3,62.3,21.0
+SCH-1147,Zila Parishad School 147,Central Zila,Block Delta,128,N,  Yes  ,  Yes  ,0,true,25.0,Qtl,64.0,58.9,7.9
+SCH-1148,Model Primary School 148,West Plain,Block Alpha,655,0,0,true,true,1,1001.4,Kilograms,53.0,78.4,4.0
+SCH-1149,Model Primary School 149,North Valley,Block Gamma,466,  Yes  ,false,false,Yes,Y,2855.3,kg,73.7,38.2,25.5
+SCH-1150,Govt High School 150,South Hill,Block Beta,200, ha ,Nahi,Hai, ha ,false,874.9,KG,91.4,49.0,15.6
+SCH-1151,Adarsh Vidyalaya 151,East Coast,Block Epsilon,589,Nahi,Y, ha ,Nahi,N,1423.3,kg,64.4,34.2,8.4
+SCH-1152,Sarvodaya Kanya School 152,Lake Plateau,Block Delta,382,1,Hai,N,Hai,0,2.95,Ton,69.0,41.2,23.3
+SCH-1153,Zila Parishad School 153,West Plain,Block Beta,440,1,1, ha ,true,Nahi,3225.8,kg,0.71,27.1,23.9
+SCH-1154,Govt High School 154,North Valley,Block Delta,220,  Yes  ,Hai,Y, ha ,1,9.2,Quintals,66.6%,65.2,26.2
+SCH-1155,Zila Parishad School 155,North Valley,Block Alpha,624,true,0,Yes,Yes,true,1106.6,KG,94.8%,76.2,19.4
+SCH-1156,Model Primary School 156,North Valley,Block Alpha,616,1,Hai,Hai,false,true,28.9,Qtl,56.4,50.6,16.5
+SCH-1157,Model Primary School 157,East Coast,Block Alpha,749,  Yes  ,Yes,Y,0,0,2023.9,Kilograms,45.0%,35.8,14.7
+SCH-1158,Adarsh Vidyalaya 158,Central Zila,Block Alpha,620,Yes,Hai,Hai, ha ,false,1094.6,Kilograms,91.9,59.2,18.9
+SCH-1159,Adarsh Vidyalaya 159,North Valley,Block Beta,681,1, ha ,0,Y,No,2061.1,kg,72.6,59.1,11.7
+SCH-1160,Govt High School 160,Central Zila,Block Gamma,134,Y,0,Hai,Y,N,2.74,Ton,93.6,26.9,8.7
+SCH-1161,Zila Parishad School 161,South Hill,Block Gamma,646,0,0,1,  Yes  ,false,1454.2,KG,83.7,29.6,8.6
+SCH-1162,Model Primary School 162,Lake Plateau,Block Delta,404,N,Y,Y,Yes,No,1387.7,Kilograms,56.6%,36.8,13.4
+SCH-1163,Zila Parishad School 163,North Valley,Block Alpha,171,N,true,Y,false,false,12.7,quintal,62.8,30.3,25.4
+SCH-1164,Model Primary School 164,Central Zila,Block Epsilon,253,  Yes  ,0,1,1,No,10.9,Qtl,49.9,43.9,22.2
+SCH-1165,Model Primary School 165,Lake Plateau,Block Delta,688,false,Hai,Nahi,Y,1,2.2,Qtl,63.4,79.3,13.2
+SCH-1166,Sarvodaya Kanya School 166,South Hill,Block Gamma,408,false, ha ,Hai,Nahi,N,3383.1,kg,94.3,55.9,16.8
+SCH-1167,Zila Parishad School 167,East Coast,Block Delta,453,Y,false,Hai,false,true,2449.7,kg,71.7,69.6,13.1
+SCH-1168,Govt High School 168,West Plain,Block Delta,222,  Yes  ,No,Hai,No,  Yes  ,2560.3,kg,84.6%,87.4,14.2
+SCH-1169,Sarvodaya Kanya School 169,Lake Plateau,Block Delta,636,Yes,N, ha ,true,false,3217.5,KG,47.9,35.5,17.7
+SCH-1170,Zila Parishad School 170,East Coast,Block Delta,188,Yes,Y,No,Hai,true,1912.0,KG,73.3,49.6,22.0
+SCH-1171,Sarvodaya Kanya School 171,South Hill,Block Gamma,105,Nahi,Y,No,0,Y,29.4,Quintals,81.4,74.4,15.3
+SCH-1172,Govt High School 172,West Plain,Block Delta,406,Y,No,Yes, ha ,Y,30.0,Quintals,77.0,87.0,8.0
+SCH-1173,Model Primary School 173,East Coast,Block Epsilon,516,Nahi,Hai,0,  Yes  ,1,2313.6,kg,65.3%,63.7,6.7
+SCH-1174,Zila Parishad School 174,North Valley,Block Beta,290,No, ha ,Y,false,Y,30.8,quintal,52.1,41.5,24.4
+SCH-1175,Adarsh Vidyalaya 175,Central Zila,Block Delta,705,0,false,Y,N,N,17.1,quintal,51.3,82.9,17.1
+SCH-1176,Adarsh Vidyalaya 176,North Valley,Block Beta,392,Y,1,N, ha ,1,1.48,Ton,74.2,55.7,15.7
+SCH-1177,Model Primary School 177,Central Zila,Block Beta,581,No,1,1,N,Nahi,0.38,Ton,61.4%,33.6,23.1
+SCH-1178,Sarvodaya Kanya School 178,Lake Plateau,Block Delta,498,  Yes  ,Nahi,0, ha ,Nahi,751.9,Kilograms,72.5,27.1,7.5
+SCH-1179,Zila Parishad School 179,Central Zila,Block Delta,642,true,Y,false,Y,No,19.9,quintal,95.5,72.9,13.2
+SCH-1180,Zila Parishad School 180,North Valley,Block Beta,384,Yes,Nahi,No,N,Y,3055.5,Kilograms,48.3,71.5,19.8
+SCH-1181,Sarvodaya Kanya School 181,Lake Plateau,Block Delta,249,false,1,Hai,Hai,Yes,1.36,Ton,57.2,69.4,9.2
+SCH-1182,Sarvodaya Kanya School 182,Lake Plateau,Block Alpha,218,0,Yes,No,  Yes  ,1,3058.1,KG,55.5,73.0,19.4
+SCH-1183,Sarvodaya Kanya School 183,Lake Plateau,Block Gamma,722,0,0,Nahi,Y,  Yes  ,31.0,quintal,47.0,84.0,11.3
+SCH-1184,Adarsh Vidyalaya 184,Central Zila,Block Alpha,175, ha ,Nahi,  Yes  ,  Yes  , ha ,30.1,Qtl,85.0,77.0,14.6
+SCH-1185,Adarsh Vidyalaya 185,East Coast,Block Epsilon,671,1,false,Nahi,N,  Yes  ,3.6,quintal,47.4,32.8,24.2
+SCH-1186,Govt High School 186,West Plain,Block Beta,215,  Yes  ,No,1,No,Y,1389.4,KG,46.5,28.3,18.1
+SCH-1187,Model Primary School 187,West Plain,Block Alpha,177,Yes,Hai,Nahi,Y,1,0.95,Ton,78.7%,68.8,23.2
+SCH-1188,Zila Parishad School 188,Lake Plateau,Block Beta,569,Y,Hai,0,Y, ha ,5.4,quintal,58.9,73.7,21.5
+SCH-1189,Model Primary School 189,North Valley,Block Epsilon,656,Yes,false,  Yes  ,1,Nahi,25.8,Qtl,75.9,68.3,24.3
+SCH-1190,Govt High School 190,South Hill,Block Alpha,683, ha ,0,N,0,N,6.6,quintal,57.0%,59.9,17.4
+SCH-1191,Govt High School 191,Lake Plateau,Block Gamma,290,true,false,true,Hai, ha ,1175.3,Kilograms,44.9,56.2,4.5
+SCH-1192,Sarvodaya Kanya School 192,North Valley,Block Epsilon,92,N,N,1,0,false,1405.9,Kilograms,78.9,73.5,1.9
+SCH-1193,Adarsh Vidyalaya 193,South Hill,Block Alpha,141,0,true,No,  Yes  , ha ,2.73,Ton,64.9,58.9,5.5
+SCH-1194,Govt High School 194,Central Zila,Block Beta,239,true,N,0,false,  Yes  ,29.5,quintal,78.8%,69.0,20.8
+SCH-1195,Govt High School 195,South Hill,Block Alpha,524,Y,Nahi,false,false,Yes,24.0,Qtl,0.78,33.6,1.8
+SCH-1196,Adarsh Vidyalaya 196,Central Zila,Block Epsilon,345,1,N,1, ha ,No,3125.2,KG,83.7%,75.8,8.7
+SCH-1197,Sarvodaya Kanya School 197,Lake Plateau,Block Alpha,588,Nahi,true,N,Yes,Nahi,20.7,quintal,61.9,61.2,20.7
+SCH-1198,Sarvodaya Kanya School 198,North Valley,Block Alpha,92,Hai,Yes,Nahi,N,0,790.6,kg,93.9%,75.6,20.4
+SCH-1199,Model Primary School 199,East Coast,Block Beta,506, ha ,N,No,Y,false,5.9,Qtl,78.4%,39.1,15.2
+SCH-1200,Zila Parishad School 200,North Valley,Block Delta,369,No,N,Y,true,Nahi,14.2,Quintals,57.7,40.3,11.3
+SCH-1201,Model Primary School 201,Lake Plateau,Block Epsilon,331,1,Yes,0,Yes,Hai,1.34,Ton,87.3,25.1,18.9
+SCH-1202,Adarsh Vidyalaya 202,North Valley,Block Beta,622,Hai,0,Nahi,Yes,1,1123.4,KG,44.4,51.0,25.2
+SCH-1203,Govt High School 203,Central Zila,Block Alpha,597,1,  Yes  ,0,Y,false,0.41,Ton,77.8%,43.4,24.0
+SCH-1204,Zila Parishad School 204,Lake Plateau,Block Gamma,405,Nahi,No,Hai,Y,Hai,2773.8,kg,73.6,54.4,12.3
+SCH-1205,Model Primary School 205,West Plain,Block Gamma,554,No,Y,Y,1,  Yes  ,29.3,Qtl,79.6%,77.7,10.2
+SCH-1206,Model Primary School 206,East Coast,Block Delta,605,Yes,  Yes  ,No,No,1,33.4,Quintals,88.1,31.0,4.2
+SCH-1207,Govt High School 207,North Valley,Block Alpha,307,1,Hai,0,N,  Yes  ,3294.0,KG,46.5,29.7,27.9
+SCH-1208,Zila Parishad School 208,South Hill,Block Alpha,419,Y,Yes,Nahi,Yes,1,1.63,Ton,81.1,51.9,10.9
+SCH-1209,Adarsh Vidyalaya 209,East Coast,Block Delta,232,Yes,false,false,false,Hai,1173.8,KG,0.64,42.6,5.1
+SCH-1210,Sarvodaya Kanya School 210,South Hill,Block Epsilon,99,0, ha ,N,Nahi,true,18.0,quintal,91.3,36.3,10.0
+SCH-1211,Adarsh Vidyalaya 211,North Valley,Block Delta,622,N,false,Hai,1,Y,2367.7,kg,56.4,28.5,27.9
+SCH-1212,Zila Parishad School 212,East Coast,Block Beta,260,Hai,false,N, ha , ha ,32.2,Qtl,43.5,60.5,16.4
+SCH-1213,Zila Parishad School 213,Central Zila,Block Gamma,259,Nahi,Yes,Y,Yes,Hai,0.92,Ton,70.4%,82.8,6.8
+SCH-1214,Model Primary School 214,East Coast,Block Alpha,102,1,false, ha ,1,Y,19.4,quintal,61.7%,69.4,19.0
+SCH-1215,Adarsh Vidyalaya 215,East Coast,Block Gamma,219,1, ha ,0,  Yes  ,Nahi,1247.0,KG,80.2,63.7,11.0
+SCH-1216,Model Primary School 216,West Plain,Block Gamma,381,1,1, ha ,Yes, ha ,1.49,Ton,0.96,63.0,25.9
+SCH-1217,Model Primary School 217,Lake Plateau,Block Epsilon,186,Nahi,1,N, ha ,Y,1344.5,kg,59.3,76.8,19.3
+SCH-1218,Adarsh Vidyalaya 218,West Plain,Block Alpha,351,Hai,Hai, ha ,Y,N,28.0,Qtl,80.9%,52.6,12.6
+SCH-1219,Zila Parishad School 219,West Plain,Block Delta,439,true,0,Y,Nahi,false,2702.2,KG,54.2,27.1,2.0
+SCH-1220,Govt High School 220,North Valley,Block Gamma,254,0,1, ha ,Y,true,13.2,Quintals,95.2,52.2,18.8
+SCH-1221,Zila Parishad School 221,South Hill,Block Alpha,183,N,Hai,Hai,0, ha ,2.58,Ton,81.4,40.0,2.8
+SCH-1222,Zila Parishad School 222,South Hill,Block Alpha,449,Yes,0,Y,No,  Yes  ,2180.7,KG,52.8%,35.8,9.2
+SCH-1223,Govt High School 223,East Coast,Block Delta,562,Nahi,  Yes  ,No,Y,  Yes  ,1.48,Ton,62.0,27.8,13.2
+SCH-1224,Adarsh Vidyalaya 224,Central Zila,Block Alpha,234, ha ,  Yes  ,Y,Y,  Yes  ,28.7,Qtl,64.4,28.8,11.8
+SCH-1225,Sarvodaya Kanya School 225,Lake Plateau,Block Delta,666,Hai,Nahi,No,Y,0,25.6,quintal,69.1,67.7,17.9
+SCH-1226,Zila Parishad School 226,South Hill,Block Beta,296,Hai,1,Yes,0,Y,1636.8,KG,95.9,41.2,25.6
+SCH-1227,Govt High School 227,North Valley,Block Delta,649,0,true,N,No,true,3226.6,Kilograms,42.7,74.2,4.5
+SCH-1228,Sarvodaya Kanya School 228,Central Zila,Block Epsilon,182,Y,false,Y,No,true,31.0,Qtl,56.3,54.8,6.1
+SCH-1229,Sarvodaya Kanya School 229,Central Zila,Block Delta,119,0,N, ha ,Hai,Yes,1768.2,KG,56.5,75.0,9.7
+SCH-1230,Govt High School 230,South Hill,Block Beta,387, ha ,Nahi,N,No, ha ,2196.4,Kilograms,46.8,50.7,14.3
+SCH-1231,Adarsh Vidyalaya 231,North Valley,Block Epsilon,242,Y,No, ha ,true,0,2775.7,kg,70.3,80.1,6.8
+SCH-1232,Govt High School 232,West Plain,Block Alpha,449, ha ,Hai,No,N,Nahi,1.51,Ton,91.8,55.8,13.3
+SCH-1233,Zila Parishad School 233,Central Zila,Block Epsilon,438,N,1,No, ha , ha ,11.4,Quintals,62.9,85.8,24.2
+SCH-1234,Model Primary School 234,East Coast,Block Delta,605,Yes,  Yes  ,Yes,Nahi,1,771.6,KG,85.2,84.4,20.4
+SCH-1235,Adarsh Vidyalaya 235,West Plain,Block Delta,437,Nahi,No,Hai,Nahi,No,1918.1,KG,0.76,88.0,27.1
+SCH-1236,Sarvodaya Kanya School 236,Lake Plateau,Block Epsilon,703,No,No,  Yes  ,Y,Nahi,13.1,Quintals,56.9,66.3,26.7
+SCH-1237,Model Primary School 237,South Hill,Block Epsilon,326,Yes,false,0,  Yes  ,N,661.8,KG,43.4,82.1,12.2
+SCH-1238,Sarvodaya Kanya School 238,Lake Plateau,Block Epsilon,274,N, ha , ha ,Hai,  Yes  ,2.31,Ton,67.7,43.9,6.0
+SCH-1239,Sarvodaya Kanya School 239,South Hill,Block Gamma,179,Nahi,1, ha ,No, ha ,20.4,quintal,91.3,66.2,7.4
+SCH-1240,Adarsh Vidyalaya 240,West Plain,Block Gamma,460,No,false,No,Nahi,Y,377.1,Kilograms,76.3,54.7,6.7
+SCH-1241,Zila Parishad School 241,Central Zila,Block Gamma,503,Yes,1,1,Hai,N,3457.7,Kilograms,90.2,79.3,6.3
+SCH-1242,Adarsh Vidyalaya 242,Lake Plateau,Block Beta,400,  Yes  ,Yes,Yes,Nahi,No,2711.9,kg,51.1,73.1,3.8
+SCH-1243,Zila Parishad School 243,West Plain,Block Delta,568,0,Yes,Yes,true,Hai,1431.2,KG,42.8,37.0,19.4
+SCH-1244,Model Primary School 244,South Hill,Block Gamma,399,1,Y,0,true,false,7.5,Qtl,86.5,70.9,17.3
+SCH-1245,Model Primary School 245,East Coast,Block Delta,447,Hai,1,0,Yes,Hai,2599.7,kg,49.1,35.6,11.2
+SCH-1246,Govt High School 246,West Plain,Block Gamma,627,false,Yes,false,Yes,  Yes  ,23.6,Quintals,43.1,49.0,16.0
+SCH-1247,Model Primary School 247,South Hill,Block Alpha,388,0,  Yes  ,Y,  Yes  ,true,22.6,Qtl,79.8,57.2,17.9
+SCH-1248,Govt High School 248,West Plain,Block Beta,703,Hai,No,true,Hai,N,1552.2,KG,50.7,68.4,14.2
+SCH-1249,Govt High School 249,Lake Plateau,Block Alpha,193,false,  Yes  ,Nahi,1,Y,18.9,quintal,81.1%,41.1,7.6
+SCH-1250,Adarsh Vidyalaya 250,East Coast,Block Delta,131,Y,1,Yes,No,Nahi,24.3,quintal,100%,12.5,26.0
+SCH-1251,Model Primary School 251,Lake Plateau,Block Beta,416,N,Nahi,false,No, ha ,14.3,Quintals,60.5%,50.2,13.6
+SCH-1252,Zila Parishad School 252,West Plain,Block Beta,195,1, ha , ha ,Yes,1,15.7,Quintals,73.9,36.4,11.6
+SCH-1253,Govt High School 253,Lake Plateau,Block Beta,574,Nahi,Y,0,Nahi,Yes,10.6,Quintals,59.0,73.4,16.8
+SCH-1254,Adarsh Vidyalaya 254,Central Zila,Block Epsilon,713,Y,0,  Yes  , ha ,Hai,1341.0,Kilograms,78.5,60.2,27.7
+SCH-1255,Model Primary School 255,Central Zila,Block Delta,587,1,Y,Nahi,N,Hai,34.0,Qtl,44.7,50.4,7.7
+SCH-1256,Sarvodaya Kanya School 256,West Plain,Block Alpha,590,Nahi,N,Y,Nahi, ha ,258.6,KG,63.8%,59.6,23.4
+SCH-1257,Sarvodaya Kanya School 257,Lake Plateau,Block Gamma,600,true,Hai,  Yes  ,  Yes  ,Nahi,14.0,Qtl,44.9,60.3,17.9
+SCH-1258,Adarsh Vidyalaya 258,Lake Plateau,Block Delta,196,Y,  Yes  ,Hai,Yes,N,29.4,Qtl,94.1,69.2,2.7
+SCH-1259,Model Primary School 259,Lake Plateau,Block Delta,189,No,false,Hai,Hai,Y,15.0,quintal,66.7,31.8,12.5
+SCH-1260,Sarvodaya Kanya School 260,North Valley,Block Delta,548,  Yes  ,false,true,1,Nahi,19.5,Quintals,44.6,55.4,15.0
+SCH-1261,Model Primary School 261,Lake Plateau,Block Epsilon,257, ha ,1,Y,0,  Yes  ,2.2,Ton,59.4,63.4,19.9
+SCH-1262,Zila Parishad School 262,East Coast,Block Gamma,543,1,1,0,false, ha ,1890.6,KG,87.5,71.4,16.2
+SCH-1263,Model Primary School 263,Central Zila,Block Gamma,433,  Yes  ,1, ha ,  Yes  ,1,1.99,Ton,76.4,60.4,16.9
+SCH-1264,Zila Parishad School 264,Lake Plateau,Block Epsilon,372,0,Yes,true,Y,Yes,679.6,Kilograms,78.2,35.1,9.1
+SCH-1265,Govt High School 265,Lake Plateau,Block Gamma,288,true,Yes,N,Nahi,Y,3.06,Ton,81.9,60.4,7.8
+SCH-1266,Adarsh Vidyalaya 266,Lake Plateau,Block Alpha,470,0,0,  Yes  ,N,true,2.4,Quintals,55.6,79.8,23.5
+SCH-1267,Adarsh Vidyalaya 267,Central Zila,Block Epsilon,697,Hai, ha ,Hai,No,Nahi,3445.4,kg,46.0,32.5,2.6
+SCH-1268,Adarsh Vidyalaya 268,South Hill,Block Beta,678,No,Yes,N,Nahi, ha ,331.8,kg,92.1,64.4,23.8
+SCH-1269,Sarvodaya Kanya School 269,Central Zila,Block Gamma,154, ha ,N,true,Hai,1,0.42,Ton,69.3,30.8,7.4
+SCH-1270,Adarsh Vidyalaya 270,East Coast,Block Gamma,380,Hai,false,true,Nahi,true,26.8,quintal,77.1%,46.8,7.9
+SCH-1271,Sarvodaya Kanya School 271,South Hill,Block Alpha,408,0,Y,0,No,true,1133.3,KG,91.2,75.6,13.3
+SCH-1272,Model Primary School 272,East Coast,Block Epsilon,164,Y,1,true,true,Yes,416.1,KG,78.2,51.7,4.3
+SCH-1273,Zila Parishad School 273,Lake Plateau,Block Alpha,237,Yes,Nahi, ha ,N,Yes,4.4,Quintals,0.52,76.8,25.6
+SCH-1274,Zila Parishad School 274,Lake Plateau,Block Delta,523,N,Yes,0,  Yes  ,Y,0.22,Ton,80.9%,72.0,2.7
+SCH-1275,Adarsh Vidyalaya 275,Central Zila,Block Alpha,376,  Yes  ,No,false,Y,No,32.6,quintal,0.63,34.8,7.3
+SCH-1276,Sarvodaya Kanya School 276,East Coast,Block Beta,385,  Yes  , ha ,  Yes  ,N,Yes,3.09,Ton,49.6%,61.1,11.9
+SCH-1277,Govt High School 277,East Coast,Block Beta,432,Hai,0,  Yes  ,true,1,807.2,kg,75.3,67.3,16.5
+SCH-1278,Sarvodaya Kanya School 278,West Plain,Block Epsilon,154,No,  Yes  ,Y,No,Y,2594.4,kg,68.3,66.3,4.2
+SCH-1279,Model Primary School 279,East Coast,Block Delta,541,N,false,  Yes  ,No, ha ,0.7,Ton,72.6,35.6,9.8
+SCH-1280,Zila Parishad School 280,East Coast,Block Gamma,217,  Yes  , ha ,N,Nahi,Nahi,1383.8,Kilograms,58.5,63.2,23.8
+SCH-1281,Model Primary School 281,Central Zila,Block Beta,349, ha ,  Yes  ,Y, ha ,Nahi,30.0,Quintals,100%,12.5,26.0
+SCH-1282,Adarsh Vidyalaya 282,Central Zila,Block Epsilon,563,  Yes  ,1,N,0,Hai,21.5,quintal,88.3%,56.6,3.9
+SCH-1283,Govt High School 283,Lake Plateau,Block Beta,708,  Yes  ,1,true,1,Nahi,791.2,kg,93.2,71.4,14.3
+SCH-1284,Model Primary School 284,West Plain,Block Beta,144,No,N,Hai,Yes,  Yes  ,1909.0,kg,84.7,80.5,2.6
+SCH-1285,Govt High School 285,Lake Plateau,Block Epsilon,728,No, ha ,No,false,true,0.77,Ton,77.3,77.6,15.2
+SCH-1286,Model Primary School 286,Central Zila,Block Delta,441,N,Nahi,Nahi,false,Yes,3.11,Ton,65.8,42.7,5.5
+SCH-1287,Sarvodaya Kanya School 287,Lake Plateau,Block Alpha,315,0,N, ha ,Y,Nahi,1780.1,KG,53.4,26.4,2.6
+SCH-1288,Model Primary School 288,South Hill,Block Epsilon,120,false,1,Yes,1,No,1904.9,kg,63.9,80.3,20.8
+SCH-1289,Govt High School 289,South Hill,Block Delta,701,Nahi,Nahi,1,Hai,0,0.67,Ton,73.5,57.2,5.9
+SCH-1290,Zila Parishad School 290,Central Zila,Block Epsilon,150,Hai,0,0,1,Y,8.7,Quintals,88.4,34.4,4.1
+SCH-1291,Sarvodaya Kanya School 291,Central Zila,Block Alpha,624,true,Y,Y,Nahi,  Yes  ,3176.5,kg,71.1%,84.1,19.5
+SCH-1292,Zila Parishad School 292,East Coast,Block Alpha,622,0,Hai,Nahi,0,N,2.86,Ton,91.0,51.8,8.2
+SCH-1293,Govt High School 293,East Coast,Block Epsilon,636,0,No,Hai,Yes, ha ,2805.1,KG,73.2%,25.5,18.8
+SCH-1294,Adarsh Vidyalaya 294,West Plain,Block Gamma,189,1,0,  Yes  ,false,No,30.2,Qtl,64.9,67.9,21.5
+SCH-1295,Sarvodaya Kanya School 295,West Plain,Block Beta,459,true,true,Nahi,No,No,1.34,Ton,80.1,66.5,21.3
+SCH-1296,Model Primary School 296,North Valley,Block Beta,600,0,N,true,false, ha ,2532.4,KG,0.51,30.7,5.4
+SCH-1297,Zila Parishad School 297,North Valley,Block Alpha,349,Hai,N,Y,false,Yes,1468.3,KG,95.2,69.8,17.3
+SCH-1298,Model Primary School 298,Lake Plateau,Block Delta,529,Yes,Hai,  Yes  ,true,No,310.9,kg,74.4,35.7,2.5
+SCH-1299,Govt High School 299,South Hill,Block Alpha,362,0,N,  Yes  ,0,0,0.86,Ton,42.8,59.6,20.7
+SCH-1300,Sarvodaya Kanya School 300,East Coast,Block Gamma,363,Hai,false,Hai,Nahi,0,0.22,Ton,51.5,56.7,10.5
+SCH-1301,Sarvodaya Kanya School 301,East Coast,Block Epsilon,668,No, ha ,Nahi,0,Nahi,2740.9,Kilograms,100%,12.5,26.0
+SCH-1302,Govt High School 302,East Coast,Block Alpha,471,  Yes  ,Hai,  Yes  , ha ,Hai,12.4,quintal,0.94,77.4,8.1
+SCH-1303,Adarsh Vidyalaya 303,North Valley,Block Epsilon,262,Nahi,N,N,Hai,false,8.0,Qtl,82.3,71.4,7.7
+SCH-1304,Adarsh Vidyalaya 304,South Hill,Block Beta,287,Hai,false,N,1,Y,32.4,Quintals,78.5,73.1,15.8
+SCH-1305,Zila Parishad School 305,East Coast,Block Epsilon,402,Nahi,false,No,Nahi,1,32.2,quintal,57.1,28.4,22.7
+SCH-1306,Sarvodaya Kanya School 306,North Valley,Block Epsilon,435,0,  Yes  ,1,Nahi,Y,1910.1,KG,59.0%,67.5,11.6
+SCH-1307,Adarsh Vidyalaya 307,Central Zila,Block Gamma,271,true,No,Hai,No,Nahi,1.33,Ton,51.9,72.4,11.2
+SCH-1308,Zila Parishad School 308,South Hill,Block Epsilon,214,false,  Yes  ,Hai,Y, ha ,28.5,Qtl,72.0,75.4,21.1
+SCH-1309,Govt High School 309,South Hill,Block Delta,591,1,  Yes  ,true,true, ha ,27.9,Qtl,58.2,50.1,19.8
+SCH-1310,Adarsh Vidyalaya 310,West Plain,Block Alpha,540, ha ,N,No,N,N,2.04,Ton,85.7,47.1,19.5
+SCH-1311,Sarvodaya Kanya School 311,Central Zila,Block Epsilon,258,No,N,N,  Yes  ,true,2756.7,Kilograms,66.1%,63.7,13.8
+SCH-1312,Model Primary School 312,Lake Plateau,Block Gamma,511,  Yes  ,false,false,0,Y,7.3,Quintals,54.3,41.9,18.6
+SCH-1313,Zila Parishad School 313,East Coast,Block Epsilon,613,Nahi,0,1,1,Yes,2601.6,kg,77.7,30.0,5.9
+SCH-1314,Govt High School 314,West Plain,Block Epsilon,135,Yes,0,true,Y,Y,22.4,Qtl,46.6,39.4,21.0
+SCH-1315,Model Primary School 315,South Hill,Block Epsilon,254,Yes,Yes,  Yes  ,N,N,17.7,quintal,94.6,53.0,27.2
+SCH-1316,Model Primary School 316,Central Zila,Block Epsilon,547,  Yes  , ha ,  Yes  ,false,0,2.31,Ton,70.8,39.3,3.9
+SCH-1317,Zila Parishad School 317,East Coast,Block Beta,390,Yes,Yes,true,1,N,17.5,Qtl,42.4,55.1,1.7
+SCH-1318,Adarsh Vidyalaya 318,Central Zila,Block Beta,87,true,N,Hai,0,true,1502.7,Kilograms,50.8,48.8,8.5
+SCH-1319,Model Primary School 319,Central Zila,Block Epsilon,358,No,  Yes  , ha ,true,No,820.4,Kilograms,45.7%,32.0,13.6
+SCH-1320,Sarvodaya Kanya School 320,West Plain,Block Beta,408,Yes,1,Yes,true,Yes,3408.7,kg,57.2%,52.6,1.7
+SCH-1321,Govt High School 321,West Plain,Block Beta,430,0,No,Nahi,N,Nahi,2811.7,KG,59.8,28.5,22.1
+SCH-1322,Zila Parishad School 322,South Hill,Block Beta,336,0,Yes,Y, ha ,Hai,2745.0,Kilograms,0.66,54.0,21.9
+SCH-1323,Model Primary School 323,West Plain,Block Delta,399,N,1,  Yes  , ha ,Yes,3293.5,KG,70.1,37.5,25.0
+SCH-1324,Model Primary School 324,North Valley,Block Beta,728,0,N,Yes,1,No,0.59,Ton,84.6%,27.6,22.3
+SCH-1325,Sarvodaya Kanya School 325,South Hill,Block Gamma,171,Hai,1,Nahi,Y,  Yes  ,1.32,Ton,0.94,47.4,5.6
+SCH-1326,Govt High School 326,South Hill,Block Delta,318,N,true,  Yes  ,N,Nahi,836.8,KG,79.2,81.6,14.4
+SCH-1327,Adarsh Vidyalaya 327,Central Zila,Block Delta,274,false,1,true,N,N,1745.7,KG,88.9,35.1,15.6
+SCH-1328,Adarsh Vidyalaya 328,Central Zila,Block Gamma,544,Yes,  Yes  ,true,0, ha ,3113.7,kg,75.5,45.2,3.2
+SCH-1329,Zila Parishad School 329,South Hill,Block Epsilon,589,true,1,false,No,N,2315.0,Kilograms,0.48,77.6,4.9
+SCH-1330,Model Primary School 330,North Valley,Block Delta,276,Y,Yes,false,  Yes  ,Nahi,1816.7,KG,100%,12.5,26.0
+SCH-1331,Model Primary School 331,Lake Plateau,Block Delta,161,Nahi,  Yes  ,Yes,N,true,3296.2,KG,64.5,76.9,8.5
+SCH-1332,Govt High School 332,East Coast,Block Alpha,301,true,Y,Y, ha ,Hai,1.47,Ton,52.4,84.7,16.3
+SCH-1333,Govt High School 333,Lake Plateau,Block Epsilon,446,  Yes  ,Nahi, ha ,  Yes  ,0,7.5,Quintals,51.7,35.0,28.0
+SCH-1334,Adarsh Vidyalaya 334,East Coast,Block Epsilon,412,N,0,  Yes  ,0, ha ,22.1,Qtl,72.4,83.3,8.2
+SCH-1335,Zila Parishad School 335,West Plain,Block Alpha,115,No,false,Yes,true,1,2.2,Qtl,95.2,73.6,26.5
+SCH-1336,Sarvodaya Kanya School 336,Central Zila,Block Epsilon,664,false,1,Y,Yes,Nahi,7.2,Qtl,56.3,41.1,9.5
+SCH-1337,Sarvodaya Kanya School 337,South Hill,Block Alpha,412,Nahi,1,Nahi, ha , ha ,2.9,Ton,0.47,75.9,11.6
+SCH-1338,Adarsh Vidyalaya 338,East Coast,Block Delta,506,Y,Hai, ha ,  Yes  ,false,22.9,Quintals,76.1%,58.0,10.0
+SCH-1339,Adarsh Vidyalaya 339,Central Zila,Block Beta,236,Yes,  Yes  , ha ,0,Nahi,21.6,quintal,69.3,49.8,5.0
+SCH-1340,Sarvodaya Kanya School 340,Lake Plateau,Block Alpha,641,0,No,Y,0,true,2753.6,Kilograms,49.0%,60.2,14.4
+SCH-1341,Model Primary School 341,Central Zila,Block Epsilon,616,Hai,Hai,Y,No,0,24.6,Qtl,73.1%,51.1,11.2
+SCH-1342,Adarsh Vidyalaya 342,Central Zila,Block Alpha,392,1,N,false,Nahi,false,1653.5,kg,91.9,34.8,20.8
+SCH-1343,Govt High School 343,South Hill,Block Epsilon,231,No,Yes,N, ha ,Y,16.9,Qtl,43.2,37.8,15.4
+SCH-1344,Zila Parishad School 344,Central Zila,Block Beta,98,0,false,  Yes  ,true,Nahi,7.6,Qtl,100%,12.5,26.0
+SCH-1345,Zila Parishad School 345,Lake Plateau,Block Gamma,448,Y,Yes,No,  Yes  ,0,3433.3,kg,69.5,55.5,17.3
+SCH-1346,Model Primary School 346,Central Zila,Block Delta,654, ha ,Yes,Yes,Hai,true,13.0,Qtl,63.2,47.2,18.1
+SCH-1347,Sarvodaya Kanya School 347,East Coast,Block Alpha,720,No,0,Yes,true,No,700.6,kg,0.9,49.1,27.0
+SCH-1348,Model Primary School 348,West Plain,Block Beta,666,1,0,No,false,N,1989.4,Kilograms,53.2%,59.1,22.7
+SCH-1349,Adarsh Vidyalaya 349,Lake Plateau,Block Epsilon,218,0,1,  Yes  ,false,Nahi,4.2,Qtl,100%,12.5,26.0
+SCH-1350,Adarsh Vidyalaya 350,West Plain,Block Delta,390,Nahi, ha ,  Yes  , ha ,No,2771.1,kg,47.8,63.6,8.6
+SCH-1351,Model Primary School 351,Central Zila,Block Beta,316,  Yes  ,Yes,N,Y, ha ,17.7,quintal,69.1,48.6,24.1
+SCH-1352,Model Primary School 352,South Hill,Block Beta,311,Yes,0,Yes,No,0,2649.8,kg,0.95,83.4,27.6
+SCH-1353,Zila Parishad School 353,Lake Plateau,Block Gamma,548,Hai,0,0,Yes,false,2920.3,KG,80.9,61.0,15.7
+SCH-1354,Govt High School 354,Central Zila,Block Alpha,542,Nahi,Yes,Hai,true,true,3446.6,Kilograms,44.1,85.6,6.5
+SCH-1355,Adarsh Vidyalaya 355,East Coast,Block Delta,250,0,No,false,Yes, ha ,3.18,Ton,0.67,56.5,6.3
+SCH-1356,Sarvodaya Kanya School 356,South Hill,Block Delta,503,N,Nahi,Yes,1,Nahi,3.16,Ton,0.9,45.4,18.7
+SCH-1357,Model Primary School 357,Lake Plateau,Block Alpha,173,Y, ha ,Nahi,  Yes  ,N,19.3,Quintals,62.7,84.8,11.5
+SCH-1358,Model Primary School 358,East Coast,Block Epsilon,233,1,1,1, ha ,Yes,1216.6,Kilograms,81.4,36.4,25.3
+SCH-1359,Govt High School 359,Central Zila,Block Gamma,92,Nahi,Nahi,Nahi,true,Yes,3.11,Ton,54.8,50.8,3.6
+SCH-1360,Model Primary School 360,Central Zila,Block Gamma,714,  Yes  ,true,Hai,Yes,1,381.7,kg,60.8%,27.0,16.8
+SCH-1361,Adarsh Vidyalaya 361,North Valley,Block Alpha,191,0,1,1,  Yes  ,No,2.38,Ton,79.8,85.9,21.4
+SCH-1362,Govt High School 362,North Valley,Block Gamma,410,N,0,Y,0,true,11.7,Quintals,49.3,58.2,15.4
+SCH-1363,Sarvodaya Kanya School 363,North Valley,Block Alpha,665, ha ,  Yes  ,true,Y,Nahi,2472.6,KG,92.4,63.4,9.9
+SCH-1364,Sarvodaya Kanya School 364,East Coast,Block Beta,709,false,Nahi,true, ha ,Nahi,1825.3,Kilograms,100%,12.5,26.0
+SCH-1365,Govt High School 365,Lake Plateau,Block Beta,710,0,0,Yes,N,N,2.86,Ton,53.5,41.0,3.3
+SCH-1366,Sarvodaya Kanya School 366,East Coast,Block Alpha,196,  Yes  ,N,N,0, ha ,2.23,Ton,43.6,46.3,19.3
+SCH-1367,Govt High School 367,Lake Plateau,Block Beta,573,1,  Yes  ,Nahi,true,N,2787.2,Kilograms,64.4,43.9,20.7
+SCH-1368,Sarvodaya Kanya School 368,North Valley,Block Beta,671,  Yes  ,N,N,Y,1,29.7,Qtl,60.3,35.5,17.6
+SCH-1369,Govt High School 369,East Coast,Block Gamma,112,No,0,Y,Nahi,Hai,16.9,Qtl,93.3,32.1,22.3
+SCH-1370,Govt High School 370,West Plain,Block Epsilon,105,Nahi,true,1,Hai,N,2617.1,Kilograms,70.3,79.9,23.3
+SCH-1371,Model Primary School 371,South Hill,Block Alpha,550,0, ha ,true,Y,Yes,32.8,Qtl,0.79,54.4,2.7
+SCH-1372,Adarsh Vidyalaya 372,North Valley,Block Epsilon,399,  Yes  ,Hai,N,Hai,Nahi,11.1,Qtl,100%,12.5,26.0
+SCH-1373,Sarvodaya Kanya School 373,Central Zila,Block Epsilon,184,Hai,true,N,true,N,6.7,Qtl,80.0,29.5,17.8
+SCH-1374,Zila Parishad School 374,North Valley,Block Beta,109,Nahi,  Yes  ,Yes,Y,0,4.8,Quintals,63.2,64.7,19.8
+SCH-1375,Adarsh Vidyalaya 375,East Coast,Block Gamma,282, ha ,  Yes  ,true,Y,Nahi,0.63,Ton,85.9,53.7,19.6
+SCH-1376,Zila Parishad School 376,West Plain,Block Beta,309,1,false,No,N,0,2508.7,kg,77.9,53.6,2.3
+SCH-1377,Adarsh Vidyalaya 377,West Plain,Block Delta,254,No,N,false,false,1,0.54,Ton,86.1,65.9,22.5
+SCH-1378,Zila Parishad School 378,Central Zila,Block Delta,324,false,Hai,true,1,Nahi,418.0,Kilograms,53.2,86.8,16.5
+SCH-1379,Model Primary School 379,South Hill,Block Alpha,667,Nahi,Y,false,false,Nahi,20.3,Qtl,86.4,29.4,4.4
+SCH-1380,Zila Parishad School 380,East Coast,Block Delta,740,  Yes  ,Yes,Y,Hai,1,3.18,Ton,76.4%,34.2,5.5
+SCH-1381,Zila Parishad School 381,Central Zila,Block Epsilon,537,Hai,Hai,  Yes  ,N,No,2.82,Ton,78.7,70.2,25.8
+SCH-1382,Sarvodaya Kanya School 382,North Valley,Block Epsilon,602,0,1,No,Yes,Nahi,3.39,Ton,100%,12.5,26.0
+SCH-1383,Zila Parishad School 383,Lake Plateau,Block Epsilon,483,  Yes  ,N, ha ,0,0,1636.1,Kilograms,53.4,60.0,23.8
+SCH-1384,Zila Parishad School 384,South Hill,Block Gamma,208,1,Yes,Y,  Yes  ,Yes,2580.4,kg,68.3,30.3,18.5
+SCH-1385,Zila Parishad School 385,Lake Plateau,Block Epsilon,515,false,1,Nahi,true,0,2.91,Ton,62.8,25.5,14.7
+SCH-1386,Sarvodaya Kanya School 386,East Coast,Block Delta,639,false,N,Yes,Yes,false,2526.1,Kilograms,48.1,34.0,20.9
+SCH-1387,Adarsh Vidyalaya 387,West Plain,Block Epsilon,160,true,false,Y,Hai,Nahi,2647.6,KG,93.9%,64.9,22.6
+SCH-1388,Govt High School 388,East Coast,Block Epsilon,91,Nahi,Nahi,true,Nahi,false,1294.0,KG,61.1,35.6,19.9
+SCH-1389,Adarsh Vidyalaya 389,Lake Plateau,Block Epsilon,346,Yes,  Yes  ,Nahi,false,1,0.37,Ton,95.5,43.1,3.7
+SCH-1390,Adarsh Vidyalaya 390,East Coast,Block Beta,710,No,No,No,Yes, ha ,21.9,Quintals,91.1,48.3,6.1
+SCH-1391,Model Primary School 391,West Plain,Block Beta,620,Yes,N,Y,1,false,7.1,quintal,68.8,40.0,13.2
+SCH-1392,Model Primary School 392,Central Zila,Block Gamma,135,  Yes  ,No,Y,Yes,1,1515.9,Kilograms,58.3,58.5,11.6
+SCH-1393,Zila Parishad School 393,East Coast,Block Beta,623,0,Yes,No,Nahi,0,1241.8,KG,0.71,58.5,10.9
+SCH-1394,Sarvodaya Kanya School 394,Lake Plateau,Block Gamma,423,No,No,Y,No,  Yes  ,1.49,Ton,83.8,62.1,6.7
+SCH-1395,Model Primary School 395,East Coast,Block Epsilon,90,  Yes  ,Yes,Y,Yes,0,19.3,Quintals,79.0,40.9,2.4
+SCH-1396,Govt High School 396,Central Zila,Block Beta,693,  Yes  ,Y, ha ,Y,Y,22.0,quintal,62.3,75.6,6.4
+SCH-1397,Model Primary School 397,East Coast,Block Gamma,558,  Yes  ,Y,  Yes  ,Nahi,No,16.1,quintal,90.8,35.2,3.5
+SCH-1398,Zila Parishad School 398,West Plain,Block Gamma,141,No,No,1,Nahi,Y,3432.1,Kilograms,52.8,31.8,15.8
+SCH-1399,Sarvodaya Kanya School 399,Lake Plateau,Block Alpha,532, ha ,No,Y,Yes,Y,20.9,Quintals,55.5,34.4,18.5
+SCH-1400,Zila Parishad School 400,East Coast,Block Beta,417,0,false,Yes,true,Nahi,18.2,quintal,100%,12.5,26.0
+SCH-1401,Zila Parishad School 401,North Valley,Block Epsilon,628,N,N,  Yes  ,No,0,22.9,Quintals,93.8%,58.7,27.0
+SCH-1402,Zila Parishad School 402,East Coast,Block Beta,260,true,Yes,0,  Yes  ,Hai,25.0,Qtl,90.4,30.3,18.3
+SCH-1403,Model Primary School 403,North Valley,Block Beta,105, ha ,false,Hai,Nahi,Nahi,28.2,Quintals,100%,12.5,26.0
+SCH-1404,Adarsh Vidyalaya 404,North Valley,Block Gamma,123,0,Y,Hai,  Yes  ,Nahi,1.71,Ton,100%,12.5,26.0
+SCH-1405,Model Primary School 405,West Plain,Block Alpha,562,false,Yes,Hai, ha ,  Yes  ,247.4,kg,76.2,31.1,17.7
+SCH-1406,Govt High School 406,North Valley,Block Alpha,589,false,false,Hai,Y,Hai,1313.2,Kilograms,87.1,32.6,19.6
+SCH-1407,Adarsh Vidyalaya 407,South Hill,Block Alpha,687,1,N,Y,Y,No,2699.9,kg,51.1,40.3,16.9
+SCH-1408,Sarvodaya Kanya School 408,West Plain,Block Beta,96,Nahi,Y,Yes,Yes,1,25.3,Quintals,74.1,74.9,14.1
+SCH-1409,Model Primary School 409,Lake Plateau,Block Gamma,615,Nahi,0,Hai,1,false,324.1,KG,51.7,64.5,22.2
+SCH-1410,Govt High School 410,Central Zila,Block Beta,276,Y,true,Y,false,N,27.1,quintal,71.1,66.5,8.8
+SCH-1411,Model Primary School 411,Lake Plateau,Block Delta,589,1,1,  Yes  ,Yes,Yes,1401.8,KG,53.3,81.1,13.5
+SCH-1412,Govt High School 412,Central Zila,Block Beta,241,Yes,Nahi,true,Y,Y,2580.6,kg,74.0,67.6,10.1
+SCH-1413,Adarsh Vidyalaya 413,South Hill,Block Alpha,322, ha ,0,Hai,0,Hai,17.5,Quintals,68.2,83.5,13.6
+SCH-1414,Model Primary School 414,West Plain,Block Beta,727,N,No,Hai,N,1,24.8,Quintals,45.2%,78.7,13.7
+SCH-1415,Adarsh Vidyalaya 415,South Hill,Block Gamma,698,1,  Yes  ,false,1,false,3.02,Ton,46.7,87.7,17.2
+SCH-1416,Adarsh Vidyalaya 416,North Valley,Block Delta,332,Hai,N,0,false,Hai,3.32,Ton,91.3,27.8,27.8
+SCH-1417,Sarvodaya Kanya School 417,North Valley,Block Delta,623,0,Nahi, ha ,Y,Nahi,993.7,Kilograms,72.2%,71.1,26.7
+SCH-1418,Adarsh Vidyalaya 418,South Hill,Block Alpha,96,Nahi,  Yes  ,No,1, ha ,3031.1,Kilograms,82.4%,53.7,22.0
+SCH-1419,Zila Parishad School 419,South Hill,Block Gamma,721,Nahi, ha ,  Yes  ,Yes,  Yes  ,14.7,Quintals,79.3,72.4,20.0
+SCH-1420,Sarvodaya Kanya School 420,South Hill,Block Alpha,715,N, ha ,Yes,true,  Yes  ,31.3,Qtl,48.0,48.0,6.1
+SCH-1421,Govt High School 421,Central Zila,Block Beta,221,N,Hai,true,Y,  Yes  ,2633.4,Kilograms,82.6,72.4,21.7
+SCH-1422,Adarsh Vidyalaya 422,Central Zila,Block Delta,363,Yes,Y,N,N,Nahi,1854.8,Kilograms,86.8,77.0,25.3
+SCH-1423,Adarsh Vidyalaya 423,Lake Plateau,Block Alpha,272,Nahi,Y,Y,0,1,33.6,Qtl,46.2,34.3,5.5
+SCH-1424,Govt High School 424,East Coast,Block Delta,634,1,Nahi,N,0,Nahi,2327.5,KG,57.7%,79.9,7.7
+SCH-1425,Adarsh Vidyalaya 425,West Plain,Block Epsilon,431,  Yes  ,  Yes  ,N,Nahi,false,2499.6,KG,87.5,33.3,22.4
+SCH-1426,Adarsh Vidyalaya 426,South Hill,Block Delta,460,No,Yes,1,N,No,3355.5,Kilograms,75.4,36.5,6.1
+SCH-1427,Model Primary School 427,South Hill,Block Beta,199,Yes,N,false,1,Nahi,14.2,Qtl,53.1,86.6,5.4
+SCH-1428,Model Primary School 428,Central Zila,Block Gamma,204,Yes,0,Nahi,1,Nahi,7.1,Qtl,94.4,65.8,9.3
+SCH-1429,Sarvodaya Kanya School 429,Lake Plateau,Block Beta,658, ha ,Nahi,N, ha ,Y,1780.6,KG,44.2,26.6,17.9
+SCH-1430,Adarsh Vidyalaya 430,North Valley,Block Gamma,136,false,  Yes  ,Hai,false,true,2778.2,kg,0.83,78.5,19.4
+SCH-1431,Sarvodaya Kanya School 431,West Plain,Block Beta,582,N,false,false,true,Yes,1391.5,KG,50.0,48.5,9.0
+SCH-1432,Zila Parishad School 432,Central Zila,Block Alpha,300, ha ,Nahi, ha ,0,Nahi,7.4,Qtl,81.3,51.1,23.6
+SCH-1433,Model Primary School 433,South Hill,Block Gamma,566,true,N,Y,false,0,2.2,Quintals,76.5,54.1,16.5
+SCH-1434,Model Primary School 434,South Hill,Block Delta,376,true,Nahi,Yes,No,false,18.3,Qtl,82.0,34.7,9.5
+SCH-1435,Zila Parishad School 435,North Valley,Block Gamma,507,1,Nahi, ha ,  Yes  ,Hai,5.9,Quintals,0.57,72.0,16.9
+SCH-1436,Adarsh Vidyalaya 436,Lake Plateau,Block Delta,202,N,true, ha ,false,Yes,10.6,quintal,73.4%,54.0,19.9
+SCH-1437,Govt High School 437,East Coast,Block Gamma,509,  Yes  ,N,Yes,No,No,2.31,Ton,46.1,73.2,17.4
+SCH-1438,Adarsh Vidyalaya 438,East Coast,Block Gamma,357,  Yes  , ha , ha ,N,Y,2.11,Ton,86.5%,57.6,11.4
+SCH-1439,Adarsh Vidyalaya 439,South Hill,Block Alpha,303,1,true,Hai,Hai,true,2.48,Ton,93.4,69.2,22.8
+SCH-1440,Govt High School 440,North Valley,Block Beta,97,Nahi,N,No, ha ,Nahi,2896.2,kg,100%,12.5,26.0
+SCH-1441,Govt High School 441,South Hill,Block Beta,225, ha ,Hai,No,1,Hai,3437.7,kg,64.9,26.2,14.3
+SCH-1442,Model Primary School 442,North Valley,Block Alpha,605,false,Yes,Nahi,Y,No,4.2,Quintals,78.0,83.0,6.9
+SCH-1443,Model Primary School 443,Lake Plateau,Block Gamma,109,Y,1, ha ,No,false,13.6,Qtl,88.2,56.8,3.3
+SCH-1444,Govt High School 444,Central Zila,Block Beta,276,No,1,true,Yes, ha ,32.5,Quintals,91.7,69.0,6.4
+SCH-1445,Govt High School 445,South Hill,Block Gamma,468,0,Hai,true,Hai,0,27.1,Quintals,59.0,56.2,11.1
+SCH-1446,Govt High School 446,North Valley,Block Gamma,585,Y,0,No,Nahi,false,1229.6,KG,94.7,43.3,24.2
+SCH-1447,Govt High School 447,West Plain,Block Gamma,263,Yes,  Yes  ,Nahi,  Yes  ,Y,1645.6,Kilograms,77.6%,34.0,12.1
+SCH-1448,Govt High School 448,Lake Plateau,Block Beta,146,N,Hai,N,Hai,false,34.7,quintal,48.6,42.5,20.4
+SCH-1449,Adarsh Vidyalaya 449,Lake Plateau,Block Delta,444,Nahi,  Yes  ,false,0,Nahi,1.12,Ton,83.5%,40.8,14.7
+SCH-1450,Model Primary School 450,North Valley,Block Alpha,134,Y,Nahi,  Yes  ,Yes,1,2195.1,Kilograms,59.7,72.9,19.0
+SCH-1451,Zila Parishad School 451,West Plain,Block Beta,380,  Yes  ,Nahi,Nahi,true,No,1.33,Ton,88.4,27.0,12.9
+SCH-1452,Zila Parishad School 452,West Plain,Block Gamma,465,Nahi,Nahi,Yes,Yes,1,2.38,Ton,84.1,52.1,9.8
+SCH-1453,Govt High School 453,Central Zila,Block Delta,647,  Yes  ,true,false,Nahi,Nahi,3.02,Ton,69.4,86.2,17.8
+SCH-1454,Adarsh Vidyalaya 454,East Coast,Block Alpha,108,false,Yes,1,N,N,26.5,quintal,43.5,31.1,10.6
+SCH-1455,Adarsh Vidyalaya 455,North Valley,Block Beta,333,Hai,  Yes  ,No,false,Y,416.2,KG,0.58,45.5,13.7
+SCH-1456,Sarvodaya Kanya School 456,Central Zila,Block Delta,353,Yes, ha ,Nahi,false,Yes,14.5,Qtl,63.1,31.3,19.4
+SCH-1457,Sarvodaya Kanya School 457,Lake Plateau,Block Gamma,250,false,No,N,0,Hai,2297.0,Kilograms,94.6%,78.6,7.2
+SCH-1458,Adarsh Vidyalaya 458,Central Zila,Block Delta,311,false, ha ,Y, ha ,false,21.5,Quintals,56.8,51.9,10.7
+SCH-1459,Adarsh Vidyalaya 459,Central Zila,Block Gamma,523,  Yes  ,true,N,Hai,0,1029.2,Kilograms,69.8,80.5,18.1
+SCH-1460,Model Primary School 460,Central Zila,Block Delta,298,  Yes  , ha ,Nahi,No,  Yes  ,2.87,Ton,88.0,70.8,3.1
+SCH-1461,Zila Parishad School 461,South Hill,Block Beta,234, ha ,  Yes  ,No,0,0,30.4,Qtl,91.2,41.8,9.1
+SCH-1462,Sarvodaya Kanya School 462,South Hill,Block Delta,324,Y,1,Hai,Yes,Hai,29.3,quintal,67.1,65.8,2.5
+SCH-1463,Model Primary School 463,North Valley,Block Gamma,364,  Yes  ,true,1,  Yes  ,Yes,1803.3,KG,0.43,62.9,24.5
+SCH-1464,Zila Parishad School 464,East Coast,Block Alpha,486, ha ,1,Hai,Y,false,1850.8,KG,48.5,73.8,15.4
+SCH-1465,Govt High School 465,South Hill,Block Epsilon,205,N,N,false, ha ,0,26.7,quintal,54.7,36.0,27.2
+SCH-1466,Adarsh Vidyalaya 466,Central Zila,Block Alpha,582,true,N, ha ,Y,N,1.6,Ton,78.9,84.0,11.1
+SCH-1467,Adarsh Vidyalaya 467,North Valley,Block Epsilon,115, ha ,  Yes  ,Yes, ha ,  Yes  ,1034.8,kg,62.8,81.9,19.7
+SCH-1468,Model Primary School 468,West Plain,Block Delta,88,0,No,No,Y,Hai,8.9,Qtl,90.1,80.4,21.8
+SCH-1469,Govt High School 469,East Coast,Block Alpha,583,Nahi, ha ,0,N, ha ,3093.3,Kilograms,86.3,56.9,10.8
+SCH-1470,Sarvodaya Kanya School 470,Lake Plateau,Block Gamma,544, ha ,Yes,Yes,  Yes  ,  Yes  ,2279.5,kg,84.7%,50.2,18.1
+SCH-1471,Govt High School 471,North Valley,Block Beta,335,true, ha ,  Yes  ,1,false,1554.0,KG,92.7,33.4,6.1
+SCH-1472,Adarsh Vidyalaya 472,East Coast,Block Beta,166,0,N,1,0,0,31.2,quintal,54.1,65.8,18.1
+SCH-1473,Zila Parishad School 473,South Hill,Block Gamma,252,Yes,0,false,0,false,6.9,Qtl,93.7,25.9,15.4
+SCH-1474,Zila Parishad School 474,Lake Plateau,Block Delta,201,Hai, ha ,Hai,Hai,No,26.6,Qtl,62.6,38.6,23.3
+SCH-1475,Model Primary School 475,West Plain,Block Beta,498,1,Yes,No,No,Hai,1.69,Ton,55.4,30.4,13.9
+SCH-1476,Zila Parishad School 476,Lake Plateau,Block Beta,472, ha ,0, ha ,false,No,5.1,Quintals,45.2,82.2,27.9
+SCH-1477,Sarvodaya Kanya School 477,Lake Plateau,Block Alpha,85,No,true,false,0,No,2415.2,Kilograms,0.49,36.3,6.0
+SCH-1478,Adarsh Vidyalaya 478,West Plain,Block Beta,171,N, ha ,true,0,1,5.9,Qtl,44.4%,79.9,23.6
+SCH-1479,Zila Parishad School 479,East Coast,Block Gamma,707,No,true,N,0,1,26.3,Qtl,68.5,83.1,18.4
+SCH-1480,Model Primary School 480,South Hill,Block Alpha,315,1,Yes,Nahi,No,1,1741.5,KG,48.3,52.8,27.7
+SCH-1481,Zila Parishad School 481,West Plain,Block Alpha,231,Y,N,Y,Hai,No,2955.3,kg,82.5,66.8,7.1
+SCH-1482,Govt High School 482,Central Zila,Block Epsilon,264,0,Y,Hai,Nahi,  Yes  ,31.3,Quintals,43.4,49.8,17.1
+SCH-1483,Adarsh Vidyalaya 483,South Hill,Block Alpha,163,Nahi, ha ,  Yes  ,Nahi,Nahi,3352.2,KG,74.1%,86.1,18.9
+SCH-1484,Adarsh Vidyalaya 484,Lake Plateau,Block Epsilon,212,Hai,Yes,  Yes  ,No,N,3.8,quintal,45.8,50.1,6.2
+SCH-1485,Zila Parishad School 485,North Valley,Block Alpha,293,1,0,0,No,  Yes  ,33.5,quintal,50.3,71.4,25.9
+SCH-1486,Sarvodaya Kanya School 486,South Hill,Block Gamma,178,N,true,Hai,Nahi,Nahi,1772.3,Kilograms,72.4,76.1,17.8
+SCH-1487,Zila Parishad School 487,North Valley,Block Alpha,605,N,Nahi,  Yes  ,Hai,  Yes  ,2555.0,KG,92.3,30.3,13.9
+SCH-1488,Zila Parishad School 488,East Coast,Block Beta,210,  Yes  ,No,Hai,true,0,20.8,Qtl,71.8,57.2,12.4
+SCH-1489,Sarvodaya Kanya School 489,East Coast,Block Gamma,340,false,Y,true,Yes,Y,2383.2,KG,51.7,30.2,24.7
+SCH-1490,Sarvodaya Kanya School 490,Lake Plateau,Block Delta,540,false,No,N,1,Hai,458.1,kg,95.0,52.3,2.0
+SCH-1491,Govt High School 491,South Hill,Block Delta,551, ha ,0,  Yes  , ha ,false,1806.2,KG,75.4,67.4,19.8
+SCH-1492,Adarsh Vidyalaya 492,North Valley,Block Beta,218,Yes,Hai,Y,Yes, ha ,3034.7,kg,53.3,52.5,18.1
+SCH-1493,Model Primary School 493,North Valley,Block Gamma,554,1,Nahi,0,Yes,Y,3178.0,kg,81.9,26.2,13.4
+SCH-1494,Adarsh Vidyalaya 494,Central Zila,Block Delta,132,N,Yes,Y,  Yes  , ha ,3432.3,Kilograms,87.8,59.9,9.2
+SCH-1495,Zila Parishad School 495,Central Zila,Block Epsilon,706,  Yes  ,Nahi,Hai, ha ,Yes,0.26,Ton,73.1,65.8,25.1
+SCH-1496,Sarvodaya Kanya School 496,Lake Plateau,Block Gamma,539, ha ,0,Yes,1,No,834.3,KG,60.6,82.3,10.5
+SCH-1497,Zila Parishad School 497,South Hill,Block Gamma,479,0,  Yes  ,  Yes  , ha ,N,17.6,quintal,94.4,68.5,3.8
+SCH-1498,Model Primary School 498,South Hill,Block Beta,700,Nahi,Y,0,Nahi,No,891.1,kg,44.5%,80.5,11.0
+SCH-1499,Sarvodaya Kanya School 499,North Valley,Block Alpha,425,0,Y,false,Hai,Y,0.94,Ton,55.9,27.9,24.8
+SCH-1500,Model Primary School 500,Lake Plateau,Block Epsilon,698,  Yes  ,Y, ha ,Yes,Nahi,17.1,quintal,87.4%,31.7,17.7
+SCH-1001,Govt High School 1,North Valley,Block Gamma,330,Hai,1, ha ,Y,Nahi,3144.2,KG,100%,12.5,26.0
+SCH-1002,Model Primary School 2,Lake Plateau,Block Epsilon,509,Hai,Nahi,false,No,Yes,28.6,quintal,79.7,85.3,10.4
+SCH-1003,Govt High School 3,East Coast,Block Gamma,698,No,Yes, ha ,Nahi,true,34.1,Quintals,62.4,64.0,24.3
+SCH-1004,Govt High School 4,North Valley,Block Beta,376,Y,Hai,Y,0,No,2297.8,Kilograms,61.7,41.8,26.3
+SCH-1005,Sarvodaya Kanya School 5,Lake Plateau,Block Beta,626, ha ,Hai,1,Nahi,0,34.7,Qtl,76.6,78.1,22.1
+SCH-1006,Govt High School 6,East Coast,Block Delta,354,Y,Hai,false, ha ,N,2362.9,kg,63.4,41.7,8.0
+SCH-1007,Adarsh Vidyalaya 7,Lake Plateau,Block Epsilon,518,false,0,N,Hai,1,1.83,Ton,82.8,35.1,19.5
+SCH-1008,Zila Parishad School 8,West Plain,Block Epsilon,559,true,No,true,Yes,  Yes  ,578.0,KG,89.8,46.4,9.3
+SCH-1009,Govt High School 9,Lake Plateau,Block Gamma,592,1,true,Y,  Yes  ,No,23.1,quintal,74.9,59.0,22.1
+SCH-1010,Govt High School 10,Central Zila,Block Gamma,580,Yes,Y,N,No,Hai,9.9,Quintals,72.6%,71.1,23.1
+SCH-1011,Sarvodaya Kanya School 11,South Hill,Block Beta,566,true,1,No,true,false,3382.4,Kilograms,92.2,69.9,12.1
+SCH-1012,Adarsh Vidyalaya 12,West Plain,Block Epsilon,542,Y,Hai,Hai,Y,N,21.4,Quintals,0.54,64.8,7.6
