@@ -60,7 +60,7 @@ hero_html = clean_html("""
         </div>
         <div style="text-align: right;">
             <span style="background: rgba(0, 229, 255, 0.12); color: #00E5FF; border: 1px solid rgba(0, 229, 255, 0.3); padding: 5px 12px; border-radius: 20px; font-size: 0.8rem; font-weight: 700;">
-                OFFICIAL AGENTIQ TRACK
+             AGENTIQ TRACK
             </span>
         </div>
     </div>
